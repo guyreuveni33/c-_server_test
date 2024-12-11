@@ -1,0 +1,58 @@
+﻿# Rider specific files
+/.idea/
+/.idea.WebApplication10.iml
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+dataSources.local.xml
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider local history
+/shelf/
+workspace.xml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# Dependency directories
+packages/
+node_modules/
+
+# Secrets and configuration
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+.env
+
+# Visual Studio Code
+.vscode/
+
+# Resharper files
+*.DotSettings.user
+*.DotSettings
+
+# Lock files
+*.lock
+project.lock.json
